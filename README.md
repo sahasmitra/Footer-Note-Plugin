@@ -1,5 +1,6 @@
 # Footer-Note-Plugin
 This is a plugin for word-press which generates textes in footer which can be added or edited by the user in the admin panel
+
 === Footer Note ===
 
 Contributors: Sahas Mitra
