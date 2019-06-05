@@ -5,7 +5,7 @@ This is a plugin for word-press which generates textes in footer which can be ad
 
 Contributors: Sahas Mitra
 
-Tags: footer code, footer, add to footer, custom footer, custom header,script, code script, head script, footer script, footer script
+Tags: footer code, footer, add to footer, custom footer, code script, footer script, footer script
 
 
 Easily add code to your footer, site-wide and/or on any individual page/post.
